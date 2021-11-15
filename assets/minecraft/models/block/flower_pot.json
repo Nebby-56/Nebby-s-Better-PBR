@@ -1,0 +1,33 @@
+{
+	"credit": "Made by StormDragon77",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/flower_pot",
+		"flowerpot": "block/flower_pot"
+	},
+	"elements": [
+		{
+			"from": [10.01, 1, 5.99],
+			"to": [5.99, 6, 10.01],
+			"faces": {
+				"north": {"uv": [6, 10, 10, 15], "texture": "#flowerpot"},
+				"east": {"uv": [6, 10, 10, 15], "texture": "#flowerpot"},
+				"south": {"uv": [6, 10, 10, 15], "texture": "#flowerpot"},
+				"west": {"uv": [6, 10, 10, 15], "texture": "#flowerpot"},
+				"down": {"uv": [11, 6, 15, 10], "texture": "#flowerpot"}
+			}
+		},
+		{
+			"from": [5, 0, 5],
+			"to": [11, 6, 11],
+			"faces": {
+				"north": {"uv": [5, 10, 11, 16], "texture": "#flowerpot"},
+				"east": {"uv": [5, 10, 11, 16], "texture": "#flowerpot", "cullface": "east"},
+				"south": {"uv": [5, 10, 11, 16], "texture": "#flowerpot"},
+				"west": {"uv": [5, 10, 11, 16], "texture": "#flowerpot"},
+				"up": {"uv": [5, 5, 11, 11], "texture": "#flowerpot"},
+				"down": {"uv": [10, 5, 16, 11], "texture": "#flowerpot", "cullface": "down"}
+			}
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+		{"model": "minecraft:block/poppy", "weight": 200},
+		{"model": "minecraft:block/rose", "weight": 1}
+	]
+  }
+}

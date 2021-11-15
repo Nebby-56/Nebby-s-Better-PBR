@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/template_item_frame_map",
+    "textures": {
+        "particle": "block/glow_item_frame",
+        "wood": "block/stripped_birch_log",
+        "back": "block/glow_item_frame"
+    }
+}

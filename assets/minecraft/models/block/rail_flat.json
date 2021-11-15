@@ -1,0 +1,17 @@
+{
+	"credit": "Made by StormDragon77",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#rail"
+	},
+	"elements": [
+		{
+			"from": [0, 1.04, 0],
+			"to": [16, 1.04, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#rail"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#rail"}
+			}
+		}
+	]
+}

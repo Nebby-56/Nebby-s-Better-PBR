@@ -1,0 +1,27 @@
+{
+	"credit": "Made by StormDragon77",
+	"parent": "block/block",
+	"textures": {
+		"particle": "#texture"
+	},
+	"elements": [
+		{
+			"from": [5, 6, 6],
+			"to": [11, 10, 10],
+			"faces": {
+				"north": {"uv": [5, 8, 11, 12], "texture": "#texture"},
+				"east": {"uv": [6, 12, 10, 16], "texture": "#texture"},
+				"south": {"uv": [5, 12, 11, 16], "texture": "#texture"},
+				"west": {"uv": [5, 12, 9, 16], "texture": "#texture"},
+				"up": {"uv": [5, 10, 11, 6], "texture": "#texture"},
+				"down": {"uv": [5, 6, 11, 10], "texture": "#texture"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 45, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "Made by StormDragon77",
+  "parent": "minecraft:block/template_sandstone_wall_inventory",
+  "textures": {
+    "wall": "minecraft:block/sandstone",
+	"top": "minecraft:block/sandstone_top"
+  }
+}

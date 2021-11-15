@@ -1,0 +1,60 @@
+{
+	"credit": "Made by StormDragon77",
+	"parent": "block/block",
+    "ambientocclusion": false,
+	"textures": {
+		"0": "block/dragon_egg",
+		"particle": "block/dragon_egg"
+	},
+	"elements": [
+		{
+			"name": "top",
+			"from": [3, 14, 3],
+			"to": [13, 16, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 10, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 10, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 10, 2], "texture": "#0"},
+				"west": {"uv": [0, 0, 10, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 10, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "upper",
+			"from": [2, 10, 2],
+			"to": [14, 14, 14],
+			"faces": {
+				"north": {"uv": [0, 0, 12, 4], "texture": "#0"},
+				"east": {"uv": [0, 0, 12, 4], "texture": "#0"},
+				"south": {"uv": [0, 0, 12, 4], "texture": "#0"},
+				"west": {"uv": [0, 0, 12, 4], "texture": "#0"},
+				"up": {"uv": [0, 0, 12, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "lower",
+			"from": [1, 2, 1],
+			"to": [15, 10, 15],
+			"faces": {
+				"north": {"uv": [0, 0, 14, 8], "texture": "#0"},
+				"east": {"uv": [0, 0, 14, 8], "texture": "#0"},
+				"south": {"uv": [0, 0, 14, 8], "texture": "#0"},
+				"west": {"uv": [0, 0, 14, 8], "texture": "#0"},
+				"up": {"uv": [0, 0, 14, 14], "texture": "#0"},
+				"down": {"uv": [0, 0, 14, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bottom",
+			"from": [2, 0, 2],
+			"to": [14, 2, 14],
+			"faces": {
+				"north": {"uv": [0, 0, 12, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 12, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 12, 2], "texture": "#0"},
+				"west": {"uv": [0, 0, 12, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 12, 12], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"credit": "Made by StormDragon77",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/lantern"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [68, 90, 0],
+			"translation": [0, -2.5, -3],
+			"scale": [0.55, 0.55, 0.55]
+		}
+	}
+}

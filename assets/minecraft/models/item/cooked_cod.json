@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+	"particle": "minecraft:break/cooked_cod",
+    "layer0": "minecraft:item/cooked_cod"
+  }
+}

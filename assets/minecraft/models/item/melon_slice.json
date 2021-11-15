@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+	"particle": "minecraft:break/melon_slice",
+    "layer0": "minecraft:item/melon_slice"
+  }
+}

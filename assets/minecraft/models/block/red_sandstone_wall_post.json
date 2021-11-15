@@ -1,0 +1,8 @@
+{
+	"credit": "Made by StormDragon77",
+  "parent": "minecraft:block/template_sandstone_wall_post",
+  "textures": {
+    "wall": "minecraft:block/red_sandstone",
+	"top": "minecraft:block/red_sandstone_top"
+  }
+}

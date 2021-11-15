@@ -1,0 +1,20 @@
+{
+	"credit": "Made by StormDragon77",
+	"parent": "item/template_skull",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -1, 2],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -3, 0]
+		},
+		"gui": {
+			"rotation": [5, 15, 0],
+			"translation": [-0.5, 2.2, 0],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

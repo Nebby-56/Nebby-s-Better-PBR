@@ -1,0 +1,61 @@
+{
+	"credit": "Made by StormDragon77",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "block/redstone_torch2",
+		"particle": "block/redstone_torch",
+		"torch": "block/redstone_torch"
+	},
+	"elements": [
+		{
+			"from": [-1, 3.5, 7],
+			"to": [1, 13.5, 9],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0, 3.5, 8]},
+			"faces": {
+				"up": {"uv": [7, 6, 9, 8], "texture": "#torch"},
+				"down": {"uv": [7, 14, 9, 16], "texture": "#torch"}
+			}
+		},
+		{
+			"from": [-1, 3.5, 0],
+			"to": [-1, 19.5, 16],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0, 3.5, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#torch"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0.86, 2.68, 0],
+			"to": [0.86, 18.68, 16],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [2, 2.75, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#torch"}
+			}
+		},
+		{
+			"from": [-8, 3.5, 7],
+			"to": [8, 19.5, 7],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0, 3.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#torch"}
+			}
+		},
+		{
+			"from": [-8, 3.5, 9],
+			"to": [8, 19.5, 9],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0, 3.5, 10]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#torch"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/flower_pot_cross",
+  "textures": {
+    "plant": "minecraft:block/wither_rose",
+	"dirt": "block/soul_soil"
+  }
+}

@@ -1,0 +1,41 @@
+{
+	"credit": "Made by StormDragon77",
+	"textures": {
+		"particle": "#platform"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 4],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#platform", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#unsticky"},
+				"west": {"uv": [0, 0, 16, 4], "rotation": 270, "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 4], "texture": "#side", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 4], "rotation": 180, "texture": "#side", "cullface": "down"}
+			}
+		},
+		{
+			"from": [6, 6, 4],
+			"to": [10, 10, 10],
+			"faces": {
+				"east": {"uv": [10, 0, 16, 4], "texture": "#armupper"},
+				"west": {"uv": [16, 4, 10, 0], "texture": "#armupper"},
+				"up": {"uv": [10, 0, 16, 4], "rotation": 270, "texture": "#armupper"},
+				"down": {"uv": [10, 0, 16, 4], "rotation": 90, "texture": "#armupper"}
+			}
+		},
+		{
+			"from": [5, 5, 10],
+			"to": [11, 11, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 6, 6], "texture": "#arm"},
+				"east": {"uv": [0, 6, 6, 12], "rotation": 90, "texture": "#arm"},
+				"west": {"uv": [0, 6, 6, 13], "rotation": 270, "texture": "#arm"},
+				"up": {"uv": [0, 6, 6, 12], "texture": "#arm"},
+				"down": {"uv": [0, 6, 6, 12], "rotation": 180, "texture": "#arm"}
+			}
+		}
+	]
+}

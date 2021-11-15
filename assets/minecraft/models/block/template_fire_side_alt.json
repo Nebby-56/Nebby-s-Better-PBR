@@ -1,0 +1,18 @@
+{
+	"credit": "Made by StormDragon77",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "break/blank"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0.1],
+			"to": [16, 22.4, 0.1],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#fire"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#fire"}
+			}
+		}
+	]
+}

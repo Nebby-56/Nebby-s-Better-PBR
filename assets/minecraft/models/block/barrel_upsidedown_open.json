@@ -1,0 +1,24 @@
+{
+	"credit": "Made by StormDragon77",
+	"parent": "minecraft:block/cube_bottom_top",
+	"textures": {
+		"0": "block/barrel_side",
+		"1": "block/barrel_top_open",
+		"2": "block/barrel_bottom",
+		"particle": "block/barrel_side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		}
+	]
+}

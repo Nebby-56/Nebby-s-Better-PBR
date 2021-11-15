@@ -1,0 +1,47 @@
+{
+	"credit": "Made by StormDragon77",
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#texture"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 4.04],
+			"to": [16, 16, 4.04],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#texture", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#texture", "tintindex": 0}
+			}
+		},
+		{
+			"from": [11.96, 0, 0],
+			"to": [11.96, 16, 16],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 8, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#texture", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#texture", "tintindex": 0}
+			}
+		},
+		{
+			"from": [4.04, 0, 0],
+			"to": [4.04, 16, 16],
+			"shade": false,
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#texture", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#texture", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, 0, 11.96],
+			"to": [16, 16, 11.96],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#texture", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#texture", "tintindex": 0}
+			}
+		}
+	]
+}

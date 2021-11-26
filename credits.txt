@@ -1,0 +1,28 @@
+Nebby's Better PBR (Java Edition) Credits:
+
+
+
+Stormilla Assets:
+StormDragon77 | https://www.planetminecraft.com/member/stormdragon77
+
+-----------------------------------------------------------
+
+Uniform Deepslate: 
+Pythagoras_314 |
+https://www.planetminecraft.com/member/pythagoras_314/
+
+-----------------------------------------------------------
+
+Provided Resources:
+Vanilla Tweaks | https://vanillatweaks.net/
+	Villager Cloak Fix
+	Proper Break Particles (modified)
+	Soul Soil Soul Campfire
+	Iron Bars Fix
+	Corrected Item Holding (modified)
+TrailerOctopus | https://www.planetminecraft.com/member/traileroctopus/
+	Emissive Textures
+	Leather Overalls (modified)
+	XP Bottle (modified)
+
+
